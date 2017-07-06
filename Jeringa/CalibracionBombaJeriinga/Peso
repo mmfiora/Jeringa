@@ -1,0 +1,6 @@
+PesoCristalizador 45.8251
+PesoAgua 20000 Pasos 46.0719-45.8251=0.2468 g=0.2468 ml
+dt=20ms
+pasos=20000
+t=400000 ms
+Q=0.2468ml/400000 ms =6.2e-6 ml/ms=6.2ul/s
